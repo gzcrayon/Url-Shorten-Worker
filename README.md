@@ -19,6 +19,7 @@ https://zelikk.blogspot.com/2022/07/url-shorten-worker-hide-tutorial.html
 - 在你自己fork出来的这份Repo里, 修改index.html, 搜索`"https://crazypeace.github.io/Url-Shorten-Worker/main.js"`, 把其中的`crazypeace`改为你自己的, index.html就会拉你自己的main.js
   ![image](https://github.com/crazypeace/Url-Shorten-Worker/assets/665889/5f283aa2-d57f-4679-a987-757f1590e8f9)
 
+- 激活你自己的Repo的GitHub Pages功能. (具体操作请google, 不详细展开了)
 
 # 在原版基础上的修改说明
 直接访问域名返回404。在KV中设置一个entry，保存秘密path，只有访问这个path才显示使用页面。  
@@ -48,7 +49,7 @@ https://zelikk.blogspot.com/2023/11/url-shorten-worker-snapchat-mode.html
 增加读取 KV 中全部记录的功能  
 https://zelikk.blogspot.com/2024/01/url-shorten-worker-load-cloudflare-kv.html
 
-变身网络记事本 Pastebin 
+变身网络记事本 Pastebin  
 https://zelikk.blogspot.com/2024/01/url-shorten-worker-pastebin.html
 
 保护 'password' key  
